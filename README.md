@@ -1,18 +1,18 @@
-# 🧠 AI for Adaptive Healthcare Systems
+# AI for Adaptive Healthcare Systems
 
-## 👩‍⚕️ Dr. Ayushi Gupta
+## Dr. Ayushi Gupta
 
 AI | Healthcare | Behavioral Science
 
 ---
 
-## 🌍 Overview
+##  Overview
 
 This portfolio explores how artificial intelligence combined with behavioral science can transform healthcare into adaptive, real-time decision systems.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 1. AI-Driven Pharma Planning
 
