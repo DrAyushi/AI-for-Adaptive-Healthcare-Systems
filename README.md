@@ -36,4 +36,4 @@ This portfolio explores how artificial intelligence combined with behavioral sci
 
 ## 🌐 Live Portfolio
 
-👉 https://yourusername.github.io/portfolio
+👉 https://drayushi.github.io/AI-for-Adaptive-Healthcare-Systems/
